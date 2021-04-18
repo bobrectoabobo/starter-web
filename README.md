@@ -15,3 +15,5 @@ deployment
 ## How to Contribute
 
 Sample website with plenty of files for demos
+
+copyright training 2021
